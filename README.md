@@ -1,6 +1,4 @@
-**#Employee Management System
-**#Micronaut Framework
-  #PostgresSQL
+**#PostgresSQL
 
 
 
